@@ -1,0 +1,64 @@
+OOPS Concept in Java, Selenium, Framework
+
+Inheritance;
+
+Java: 
+Integer extends Number
+List<E> extends Collection<E>
+Set<E> extends Collection<E>
+
+Selenium:
+ChromeDriver extends ChromiumDriver
+ChromiumDriver extends RemoteWebDriver
+
+Framework:
+Pages extends BaseClass
+TestCases extends BaseClass
+
+Polymorphism:
+MethodOverloading:
+Java: subString method in subString
+
+Selenium:
+switchToFrame:
+-by index
+-by id or name
+-WebElement
+
+
+Framework:
+startApp Method
+clearAndType
+
+
+OverRiding:
+Java Example:
+equals method of String overrides the equals method of object
+
+
+Selenium:
+quitMethod in Chromedriver overrides the quit method in RemoteWebDriver
+
+Encapsulation:
+Framework: ThreadLocalImplementation
+
+Abstraction:
+Interface
+Java:
+List, Set, Collections
+
+Selenium: Alert, WebDriver, WebElement
+
+FrameWork:
+Browser, WebElement
+
+
+AbstractClass:
+Java: AbstractList
+
+Selenium:
+By Class
+
+Framework:
+public Reporter Class
+
